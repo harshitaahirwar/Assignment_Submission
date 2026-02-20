@@ -1,0 +1,67 @@
+[
+  {
+    "email": "admin@shophub.com",
+    "password": "admin123",
+    "validity": "valid"
+  },
+  {
+   
+    "email": "user@example.com",
+    "password": "user123",
+    "validity": "valid"
+  },
+  {
+  
+    "email": "guest@demo.com",
+    "password": "guest123",
+    "validity": "valid"
+  },
+  {
+  
+    "email": "admin@shophub.com",
+    "password": "wrong123",
+    "validity": "invalid"
+  },
+  {
+   
+    "email": "user@example.com",
+    "password": "wrongpass",
+    "validity": "invalid"
+  },
+  {
+ 
+    "email": "guest@demo.com",
+    "password": "123456",
+    "validity": "invalid"
+  },
+  {
+    
+    "email": "invalidemail",
+    "password": "admin123",
+    "validity": "invalid"
+  },
+  {
+    
+    "email": "notexist@example.com",
+    "password": "test123",
+    "validity": "invalid"
+  },
+  {
+    
+    "email": "",
+    "password": "admin123",
+    "validity": "invalid"
+  },
+  {
+    
+    "email": "admin@shophub.com",
+    "password": "",
+    "validity": "invalid"
+  },
+  {
+    
+    "email": "",
+    "password": "",
+    "validity": "invalid"
+  }
+]
